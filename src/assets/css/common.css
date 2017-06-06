@@ -1,0 +1,15 @@
+html,body{height:100%;width:100%;padding:0;margin:0;}
+input{outline: none;background-color:#eee;}
+/***********当前项目通用样式******************/
+.ls3{letter-spacing: 0.3em;}
+.header{box-shadow:0px 2px 2px rgba(0,0,0,0.1);padding:0 15px 0 15px;height:56px;background:#fff;text-align:center;line-height:56px;color:#999;}
+.ser{padding-left:4%;padding-right:4%;}
+.ser li{margin:1%;display:block;width:48%;background:#fff;border-radius:4px;height:158px;float:left;box-shadow:0px 0px 8px rgba(0,0,0,0.1);text-align:center;color:#444;padding-top:24px;}
+.ser li:active{background-color:#dbdbdb;}
+.ser li .sroom{font-size:24px;font-weight:bold;}
+.ser li .stxt{font-size:16px;}
+.ser li .sico{display:block;height:48px;width:48px;margin:23px auto 16px auto;}
+.ser li .sico.sico1{background-image:url('../img/room1.svg');}
+.ser li .sico.sico2{background-image:url('../img/room2.svg');}
+.ser li .sico.sico3{background-image:url('../img/room3.svg');}
+.ser li .sico.sico4{background-image:url('../img/room4.svg');}

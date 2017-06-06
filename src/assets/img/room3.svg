@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="16" y="332" width="168" height="180" rx="5"></rect>
+        <filter x="-4.2%" y="-2.8%" width="108.3%" height="107.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.76392432   0 0 0 0 0.76392432   0 0 0 0 0.76392432  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M7,12 L41,12 L41,12 C43.209139,12 45,13.790861 45,16 L45,34.3325283 L45,34.3325283 C45,36.5142834 43.251663,38.2935975 41.0702443,38.3319115 C36.2394271,38.416759 33.6665691,38.3894552 33.3516704,38.25 C30.2846269,36.8917377 27.3688885,27.8431037 24.0000053,27.8431037 C20.6311221,27.8431037 17.6396819,36.3026976 14.754795,38.25 C14.4412577,38.4616381 11.8210208,38.5022042 6.8940843,38.3716985 L6.8940843,38.3716985 C4.72696038,38.3142953 3,36.5409851 3,34.373101 L3,16 L3,16 C3,13.790861 4.790861,12 7,12 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="服务列表" transform="translate(-76.000000, -406.000000)">
+            <rect id="Rectangle" fill="#F2F2F2" x="0" y="64" width="375" height="603"></rect>
+            <g id="Rectangle-2-Copy-3">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-5" transform="translate(76.000000, 406.000000)">
+                <rect id="Rectangle-11" x="0" y="0" width="48" height="48"></rect>
+                <g id="Rectangle-7">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#444444" stroke-width="2" d="M14.3030851,37.3457723 C15.1149088,36.7572835 15.8237501,35.761033 17.757371,32.7094967 C20.4728951,28.4240029 21.8739979,26.8431037 24.0000053,26.8431037 C26.0603498,26.8431037 27.3332107,28.3170509 30.0097244,32.6016424 C31.0398194,34.2506292 31.3756265,34.7714617 31.8757754,35.4582394 C32.6280934,36.4912823 33.2530884,37.1126684 33.7565966,37.3356506 C33.8516102,37.3777281 36.7198533,37.4081667 41.0526833,37.3320657 C42.6887473,37.3033302 44,35.9688447 44,34.3325283 L44,16 C44,14.3431458 42.6568542,13 41,13 L7,13 C5.34314575,13 4,14.3431458 4,16 L4,34.373101 C4,35.9990141 5.29522029,37.3289967 6.92056322,37.3720492 C9.37124497,37.4369633 11.2454919,37.4592987 12.5389843,37.439273 C13.1726256,37.4294631 13.6621005,37.4095028 14.0014859,37.3803273 C14.1287232,37.3693892 14.2303769,37.3574896 14.3030851,37.3457723 Z"></path>
+                </g>
+                <g id="Group-4" transform="translate(10.000000, 19.000000)" stroke="#444444" stroke-width="1.5" fill="#FDD942">
+                    <circle id="Oval" cx="24.0625" cy="3.9375" r="3.9375"></circle>
+                    <circle id="Oval-Copy" cx="3.9375" cy="3.9375" r="3.9375"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
